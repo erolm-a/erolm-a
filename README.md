@@ -20,6 +20,17 @@ Here is a small summary of my past experiences:
 
 - *Functional Programming*: Made a [skimpy library](https://github.com/erolm-a/haskell-lvalue) to show the power of GADTs in Haskell. It is not properly packaged, I apologize.
 
+## Technical plan for the next 2 years
+
+- [ ] Learn Elixir
+
+- [ ] Improve my knowledge of Scala
+
+- [ ] Work with Temporal Graph Networks
+
+- [ ] Improve my understanding of Reinforcement Learning in Computer Vision/Graph applications.
+
+- [ ] Publish a preprint on arxiv - and possibly present it at SIGIR
 
 ## Non technical plan for the next 2 years (2021-2022):
 
