@@ -1,6 +1,6 @@
 # Hello World
 
-I am a CS student at the University of Glasgow.
+I am a CS research associate at the University of Glasgow.
 
 Here is a small summary of my past experiences:
 
@@ -8,7 +8,7 @@ Here is a small summary of my past experiences:
 
 - *NLP*. I worked on custom knowledge graphs with the aim of improving existing IR systems with (hopefully!) high-quality data. Currently working on my dissertation on logical reasoning with attention-based mechanisms. Also made a [joke repo](https://github.com/erolm-a/monty-python-flying-muppets).
 
-- *Reinforcement Learning* in the context of automated decision making (see [my team coursework](https://github.com/erolm-a/ai-coursework-2020) (still private)).
+- *Reinforcement Learning* in the context of automated decision making (see [my team coursework](https://github.com/erolm-a/ai-coursework-2020)).
 
 - *Good old-fashioned Artificial Intelligence* [GOFAI](https://github.com/erolm-a/lts)
 
@@ -30,7 +30,7 @@ Here is a small summary of my past experiences:
 
 - [ ] Improve my understanding of Reinforcement Learning in Computer Vision/Graph applications.
 
-- [ ] Publish a preprint on arxiv - and possibly present it at SIGIR
+- [ ] Publish a preprint on arxiv
 
 ## Non technical plan for the next 2 years (2021-2022):
 
@@ -57,3 +57,5 @@ Here is a small summary of my past experiences:
 - [ ] Go hiking on Ben Lomond
 
 - [ ] Read a book on Kant philosophy
+
+- [ ] Improve my knowledge of kanjis
