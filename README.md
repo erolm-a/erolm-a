@@ -1,6 +1,6 @@
 # Hello World
 
-I am a CS research associate at the University of Glasgow.
+I am a CS research assistant at the University of Glasgow.
 
 Here is a small summary of my past experiences:
 
@@ -24,8 +24,6 @@ Here is a small summary of my past experiences:
 
 - [ ] Learn Elixir
 
-- [ ] Improve my knowledge of Scala
-
 - [ ] Work with Temporal Graph Networks
 
 - [ ] Improve my understanding of Reinforcement Learning in Computer Vision/Graph applications.
@@ -34,7 +32,7 @@ Here is a small summary of my past experiences:
 
 ## Non technical plan for the next 2 years (2021-2022):
 
-- [ ] Take a driving licence
+- [X] Take a driving licence (1/2)
 
 - [ ] Read Norwegian Wood
 
@@ -54,8 +52,8 @@ Here is a small summary of my past experiences:
 
 - [ ] Read "How to build a brain"
 
-- [ ] Go hiking on Ben Lomond
+- [X] Go hiking on Ben Lomond
 
 - [ ] Read a book on Kant philosophy
 
-- [ ] Improve my knowledge of kanjis
+- [X] Improve my knowledge of kanjis
